@@ -10,6 +10,13 @@
             "Manishbasnet\\Website\\": "src"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Manishbasnet\\Website\\Providers\\WebsiteServiceProvider"
+            ]
+        }
+    },
     "license": "MIT",
     "minimum-stability": "dev"
 }
