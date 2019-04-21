@@ -3,9 +3,7 @@
     "description": "",
     "type": "library",
     "require": {
-        "illuminate/support": "^5.8",
-        "php": "^7.2",
-        "phpunit/phpunit": "^8.1"
+        "illuminate/support": "^5.4"
     },
     "autoload": {
         "psr-4": {
