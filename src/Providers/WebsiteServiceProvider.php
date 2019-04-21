@@ -8,7 +8,8 @@ class WebsiteServiceProvider extends ServiceProvider
 {
 	public function boot()
 	{
-		dd("We are loading our package service provider");
+		echo ("We are loading our package service provider");
+		info('manishbasnet/website bootstrapped.');
 	}
 
 	public function register()
