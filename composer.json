@@ -1,0 +1,17 @@
+{
+    "name": "waygou/website",
+    "description": "Waygou Website",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^5.8",
+        "php": "^7.2",
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"Waygou\\Website\\": "src"
+    	}
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
