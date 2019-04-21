@@ -1,6 +1,6 @@
 <?php
 
-namespace Waygou\Website\Providers;
+namespace ManishBasnet\Website\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

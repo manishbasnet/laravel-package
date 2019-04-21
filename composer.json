@@ -1,6 +1,6 @@
 {
-    "name": "waygou/website",
-    "description": "Waygou Website",
+    "name": "manishbasnet/website",
+    "description": "",
     "type": "library",
     "require": {
         "illuminate/support": "^5.8",
@@ -8,9 +8,9 @@
         "phpunit/phpunit": "^8.1"
     },
     "autoload": {
-    	"psr-4": {
-    		"Waygou\\Website\\": "src"
-    	}
+        "psr-4": {
+            "Manishbasnet\\Website\\": "src"
+        }
     },
     "license": "MIT",
     "minimum-stability": "dev"
